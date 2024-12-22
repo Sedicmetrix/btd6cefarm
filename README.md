@@ -8,6 +8,8 @@ To run this, there are a few things to note:
 - Benjamin must be the selected hero
 - Double Cash Mode and Fast Track are required (I may make a non-DCM non-FT version of this in the future.)
 - Full Monkey Knowledge is basically a necessity
+- You also need default controls (with the exception of "Reverse Change Targeting" set to backquote (`)
+
 
 A few important things to note in general:
 - There is no protection against leveling up mid-game
