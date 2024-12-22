@@ -138,7 +138,7 @@ time.sleep(0.1)
 keyboard.type(' ')
 time.sleep(0.1)
 keyboard.type(' ')
-time.sleep(5)
+time.sleep(0.1)
 color(1214, 659, [255,255,255], 20, 10000, 0.1)
 keyboard.type(' ') # 30
 time.sleep(0.1)

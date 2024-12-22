@@ -143,7 +143,7 @@ keyboard.type('.')
 time.sleep(0.1)
 keyboard.press(Key.esc)
 keyboard.release(Key.esc)
-time.sleep(2.5)
+time.sleep(0.1)
 color(1214, 659, [255,255,255], 20, 10000, 0.1)
 keyboard.type(' ') # 30
 time.sleep(4.2)

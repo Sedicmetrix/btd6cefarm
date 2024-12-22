@@ -151,7 +151,7 @@ time.sleep(0.1)
 mouse.position = (720, 229)
 time.sleep(0.1)
 mouse.click(Button.left)
-time.sleep(5)
+time.sleep(0.1)
 color(1214, 659, [255,255,255], 20, 10000, 0.1)
 keyboard.type(' ') # 30
 time.sleep(4.2)

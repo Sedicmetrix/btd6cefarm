@@ -138,7 +138,7 @@ time.sleep(0.1)
 keyboard.type(' ')
 time.sleep(0.1)
 keyboard.type(' ')
-time.sleep(5)
+time.sleep(0.1)
 color(1214, 659, [255,255,255], 20, 10000, 0.1)
 keyboard.type(' ') # 30
 time.sleep(0.1)
@@ -287,6 +287,9 @@ keyboard.type(' ') # 52
 time.sleep(6.7)
 color(1214, 659, [255,255,255], 20, 10000, 0.1)
 keyboard.type(' ') # 53
+time.sleep(11.5)
+color(1214, 659, [255,255,255], 20, 10000, 0.1)
+keyboard.type(' ') # 54
 time.sleep(0.1)
 mouse.position = (300, 47)
 time.sleep(0.1)
@@ -296,10 +299,7 @@ keyboard.type('.')
 time.sleep(0.1)
 keyboard.press(Key.esc)
 keyboard.release(Key.esc)
-time.sleep(11.1)
-color(1214, 659, [255,255,255], 20, 10000, 0.1)
-keyboard.type(' ') # 54
-time.sleep(6.3)
+time.sleep(5.9)
 color(1214, 659, [255,255,255], 20, 10000, 0.1)
 keyboard.type(' ') # 55
 time.sleep(9.8)
