@@ -17,9 +17,17 @@ A few important things to note in general:
 - There is no protection against dying mid-game
 - The strats are fairly consistent. They have yet to fail (albeit Dark Dungeons and Ravine are the most scuffed. I may edit these strats)
 
-- TO INSTALL -
+TO INSTALL -
 Put every script in the same directory somewhere and install python requirements.
+Windows:
+`pip install -r requirements.txt`
+Linux/MacOS:
+`pip3 install -r requirements.txt`
 
-- TO RUN -
+TO RUN -
 Ensure everything is configured correctly and go into the BTD6 game with your bonus rewards expert map loaded, then run mapidentifier.py, after that, you have three seconds to alt-tab into the game for it to do its thing.
 (You may need to run the scripts as admin/superuser in order for it to work properly)
+Windows:
+`python mapidentifier.py`
+Linux/MacOS:
+`python3 mapidentifier.py`
