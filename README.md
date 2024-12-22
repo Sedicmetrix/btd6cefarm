@@ -18,5 +18,5 @@ A few important things to note in general:
 Put every script in the same directory somewhere and install python requirements.
 
 - TO RUN -
-Ensure everything is configured correctly and go into the BTD6 game with your bonus rewards expert map loaded, then run mapidentifier.py.
+Ensure everything is configured correctly and go into the BTD6 game with your bonus rewards expert map loaded, then run mapidentifier.py, after that, you have three seconds to alt-tab into the game for it to do its thing.
 (You may need to run the scripts as admin/superuser in order for it to work properly)
