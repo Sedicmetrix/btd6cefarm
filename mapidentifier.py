@@ -81,7 +81,7 @@ script_to_run12 = os.path.join(current_directory, "12ouch.py")
 time.sleep(3) # Time to get into BTD6
 
 while True:
-    if (color(137, 453, [90,151,171], 10, 2, 0.1)): # Glacial check
+    if (color(137, 453, [90,151,171], 20, 2, 0.1)): # Glacial check
         if sys.platform == "win32":
             subprocess.run(["python", script_to_run1])
         else:
